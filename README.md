@@ -76,19 +76,20 @@ scikit-learn   # Metrics and evaluation
 ---
 
 
-##🔮 Future Scope
 
--Integrate real-time satellite feed monitoring (e.g., Sentinel-2, Planet API)
+## 🔮 Future Scope
 
--Deploy model as a web dashboard for live disaster response.
+- 🌐 Integrate real-time satellite feed monitoring (e.g., Sentinel-2, Planet API)
+- 🖥️ Deploy the model as a web dashboard for live disaster response
+- 🧩 Add segmentation models (U-Net, Mask R-CNN) for pixel-level damage mapping
+- 🧠 Combine multimodal data (text reports, weather, radar) for better context
+- 🗺️ Fine-tune on regional datasets for localized predictions
 
--Add segmentation models (U-Net, Mask R-CNN) for pixel-level damage mapping.
-
--Combine multimodal data (text reports, weather, radar) for better context.
-
--Fine-tune on regional datasets for localized predictions.
 ---
 
-##👨‍💻 Author
+## 👨‍💻 Author
 
-Manan Sharma
+Manan Sharma  
+Final Year Student, Jaypee Institute of Information Technology  
+Passionate about Machine Learning, Computer Vision, and AI for Social Good.
+
