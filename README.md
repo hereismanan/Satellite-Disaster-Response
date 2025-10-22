@@ -75,18 +75,6 @@ scikit-learn   # Metrics and evaluation
 
 ---
 
-## How to Run
-
-# 1️⃣ Clone the repository
-git clone https://github.com/<your-username>/Satellite-Disaster-Response.git
-cd Satellite-Disaster-Response
-
-# 2️⃣ Install dependencies
-pip install -r requirements.txt
-
-# 3️⃣ Run the notebook
-jupyter notebook Satellite_Disater.ipynb
----
 
 ##🔮 Future Scope
 
@@ -100,7 +88,7 @@ jupyter notebook Satellite_Disater.ipynb
 
 -Fine-tune on regional datasets for localized predictions.
 ---
-##
-👨‍💻 Author
+
+##👨‍💻 Author
 
 Manan Sharma
