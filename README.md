@@ -86,6 +86,21 @@ pip install -r requirements.txt
 
 # 3️⃣ Run the notebook
 jupyter notebook Satellite_Disater.ipynb
+---
 
-# 4️⃣ (Optional) Visualize results
-python visualize_predictions.py
+##🔮 Future Scope
+
+-Integrate real-time satellite feed monitoring (e.g., Sentinel-2, Planet API)
+
+-Deploy model as a web dashboard for live disaster response.
+
+-Add segmentation models (U-Net, Mask R-CNN) for pixel-level damage mapping.
+
+-Combine multimodal data (text reports, weather, radar) for better context.
+
+-Fine-tune on regional datasets for localized predictions.
+---
+##
+👨‍💻 Author
+
+Manan Sharma
