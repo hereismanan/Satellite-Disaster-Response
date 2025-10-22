@@ -71,6 +71,7 @@ matplotlib     # Visualization
 numpy          # Numerical processing
 PIL            # Image processing
 scikit-learn   # Metrics and evaluation
+```
 
 ---
 
